@@ -4,4 +4,4 @@ The current repository holds the resulting network files cultivated from numerou
 
 The network files are seperated into individule networks based on species, as well as, an overall PPI network (where apporiate genes were mapped onto human genes using HomoloGene). 
 
-All files are timestamped with the last date the data was processed.
+All files are time-stamped with the last date the data was processed.
